@@ -6,7 +6,7 @@ public class areaofcircle{
 // making oject
  Scanner s = new Scanner(System.in);
 System.out.println("enter ratious");
-double r=s.nextDouble();
+double r= s.nextDouble();
 double area=(22*r*r)/7;
 System.out.println("your area of circle is" + area);
  }
