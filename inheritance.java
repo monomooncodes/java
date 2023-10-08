@@ -1,5 +1,5 @@
 // inheritance: it has super class and sub class;it shows how both are sharing information.
-// types of inheritance: single inheritances, multi-level heritance, multi-level iheritance 
+// types of inheritance: single inheritances, multi-level heritance, multiple iheritance 
 // single inheritances:  a class inherit properties and methods from only one superclass. this is the most basic from of inheritance and is implemented in java using the extends keyword
 
 class superclass{
